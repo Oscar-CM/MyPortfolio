@@ -4,5 +4,19 @@ body{
 .header{
   text-align: right;
   background-color: grey;
-  color: blue;
+  color: orange;
+}
+.container{
+  position: relative;
+}
+.text{
+  position: absolute;
+  bottom: 8px;
+  right: 15px;
+  font-style: italic;
+  font-size: 20;
+  color: purple;
+}
+img{
+  width: 100%
 }
