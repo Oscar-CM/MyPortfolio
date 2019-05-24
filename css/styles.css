@@ -1,0 +1,8 @@
+body{
+  background-color: lightgrey;
+}
+.header{
+  text-align: right;
+  background-color: grey;
+  color: blue;
+}
