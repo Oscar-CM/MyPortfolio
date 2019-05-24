@@ -20,3 +20,8 @@ body{
 .comp{
   width: 100%
 }
+.me{
+  float: left;
+  width: 10%;
+  height: 10%;
+}
