@@ -19,9 +19,14 @@ body{
   color: orange;
 }
 .comp{
-  width: 300;
-  height: 250;
+  height: 30%;
+  width: 49.5%;
 }
+.comp1{
+  height: 30%;
+  width: 49.5%;
+}
+
 .me{
   float: left;
   width: 10%;
@@ -56,54 +61,4 @@ h1{
 .sites img{
   width: 40%;
   height: 40%;
-}
-
-
-
-
-
-nav {
-  float: right;
-}
-
-nav ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-nav li {
-  display: inline-block;
-  margin-left: 70px;
-  padding-top: 23px;
-
-  position: relative;
-}
-
-nav a {
-  color: #444;
-  text-decoration: none;
-  text-transform: uppercase;
-  font-size: 14px;
-}
-
-nav a:hover {
-  color: #000;
-}
-
-nav a::before {
-  content: '';
-  display: block;
-  height: 5px;
-  background-color: #444;
-
-  position: absolute;
-  top: 0;
-  width: 0%;
-
-  transition: all ease-in-out 250ms;
-}
-
-nav a:hover::before {
-  width: 100%;
 }
