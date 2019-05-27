@@ -18,4 +18,4 @@ HTML and CSS
 Pl  requests on this projects are highly welcome. At any time, please open an issue first so as to discuss what you desire to change
 ### License
 *MIT*
-Copyright (c) {year} **Oscar Cheruiyot Maritim**
+Copyright (c) {2019} **Oscar Cheruiyot Maritim**
