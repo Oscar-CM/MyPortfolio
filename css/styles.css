@@ -16,7 +16,13 @@ body{
   right: 15px;
   font-style: italic;
   font-size: 20;
-  color: orange;
+  color: black;
+}
+.text img{
+  float: left;
+  height: 20%;
+  width: 20%;
+  border-radius: 50%;
 }
 .comp{
   height: 30%;
